@@ -206,7 +206,7 @@ const mohanPrasanth = {
 ---
 
 <div align="center">
-  <i>⚡ "First, solve the problem. Then, write the code." – John Johnson</i>
+  <i>⚡ "First, solve the problem. Then, write the code." – Mohan Prasanth</i>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
